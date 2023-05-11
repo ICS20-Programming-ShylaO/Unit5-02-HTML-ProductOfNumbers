@@ -1,0 +1,60 @@
+/* Created by: Shyla Oommen
+* Created on: May 2023
+* This CSS file defines the style for index.html
+* ICS2O-Programming-Unit5-02-HTML-ProductOfNumber
+*/
+
+body {
+  background-color: #f3dad8;
+}
+
+h5 {
+  background-color: #d6d9ce;
+  text-align: center;
+  border: 2px solid #f1b5cb;
+  color: black;
+  font-weight: bold;
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p {
+  background-color: #d6d9ce;
+  border: 2px solid #f1b5cb;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+form {
+  border: 2px solid #f1b5cb;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+#results {
+  background-color: #d6d9ce;
+  border: 2px solid #f1b5cb;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+img {
+  float: right;
+  border: 5px solid #f1b5cb;
+}
